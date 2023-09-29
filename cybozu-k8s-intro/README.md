@@ -1,3 +1,3 @@
-# 参考サイト
+# Reference
 
 <https://cybozu.github.io/introduction-to-kubernetes/introduction-to-kubernetes.html>
